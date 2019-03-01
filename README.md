@@ -1,17 +1,21 @@
-# DetectViruS
+# Doxinfo
 ```
-DetectViruS roba todo lo que es documento de Adobe y las copia a una USB cuando la victima lo ejecute la aplicación.
-```
-- MAS INFORMACIÓN https://lpericena.blogspot.com/2017/12/DetectViruS.html
+Doxing o doxeo o doxxing es la práctica en Internet de investigación y publicación de
+información privada o identificante sobre un individuo o una organización. wikipedia
+Doxing es el proceso de obtención de información acerca de una persona a través de
+fuentes de internet, utilizando el ingenio y habilidades de búsqueda.
+La palabra deriva de "document" en inglés y ing, que sería un gerundio 
+en esa lengua : documentando o algo por el estilo pero queda mejor doxing
+.```
+Doxinfo
+Es un programa creado para para doxear a un individuo o una organización .
+Doxinfo tiene una variedad de opciones de buscadores web para obtener datos de nuestra victimas.
+- MAS INFORMACIÓN https://www.lpericena.tk/2019/02/doxing.html
 
-## Comenzando 🚀
-
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-https://github.com/Pericena/DetectViruS.git
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
+## Comenzando 
+![](https://2.bp.blogspot.com/-3JyjMAG7EJU/XHfM90oksNI/AAAAAAAANyc/KZzjUbeO6mY88yc9F5G5p9Wm-QyNai_EACLcBGAs/s1600/Screenshot_11.png)
+### Pre-requisitos 
+![](https://1.bp.blogspot.com/-hUVUYxzVEpk/XHfkFt92LNI/AAAAAAAAN0I/krQXsqw-DmcTvM0eHAYuV1drsIg21uxAQCLcBGAs/s1600/Screenshot_22.png)
 
 _Que cosas necesitas para instalar el software y como instalarlas_
 
@@ -19,39 +23,12 @@ _Que cosas necesitas para instalar el software y como instalarlas_
  - windows 7/10
  - USB 
 ```
-
-### Instalación 🔧
-
-```
-Ejecutar el programa DetectViruS.exe existe varias versiones para windows 7/10
-```
-_Y repite_
-```
-hasta finalizar
-```
-
-## Ejecutando las pruebas ⚙️
-visita la pagina web para que puedas ver el proceso de la instalación y el uso
-https://lpericena.blogspot.com/2017/12/DetectViruS.html
-
-### Analice las pruebas end-to-end 🔩
-
-```
-Aclarar que tambien tiene una opcion para que puedan ordenarse los archivos en una carpeta , por extecion
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-```
-Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarlo en un usb , como dirian un software de bolsillo
-```
-
-## Deployment 📦
+## Deployment ðŸ“¦
 - LICENSE
 - Permisos
 * Uso comercial
-* Distribución
-* Modificación
+* DistribuciÃ³n
+* ModificaciÃ³n
 * Uso de patentes
 * Uso privado
 - Condiciones	Limitaciones
@@ -60,31 +37,20 @@ Puede demorar no mas de 2 minutos el escaneo, es un antivirus que puedes llevarl
 *  Misma licencia
 *  Cambios de estado
 *  Responsabilidad
-*  Garantía
+*  GarantÃ­a
 
-## Construido con 🛠�?* [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
-
-## Contribuyendo 🖇�?
-Por favor lee el [CONTRIBUTING.md](https://github.com/Pericena/DetectViruS) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Versionado 📌
-
-Usamos [version](https://github.com/Pericena/DetectViruS/blob/master/version.txt) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/Pericena/DetectViruS/tags).
-## Autores ✒️
-
+## Construido con * [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
 _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
 
-* **Luishiño Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
+* **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
 
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/Pericena/DetectViruS/contributors) quíenes han participado en este proyecto. 
 
-## Licencia 📄
+## Licencia ðŸ“„
 
-Este proyecto está bajo la Licencia (Licencia pública general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
-## Expresiones de Gratitud 🎁
-
-* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales 📢
+## Expresiones de Gratitud 
+* Bueno espero que le sea de utilidad cualquier consulta pueden dirigirse a mis redes sociales ðŸ“¢
 Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
@@ -98,18 +64,18 @@ Sigueme en las redes Sociales:
 - vimeo         https://vimeo.com/lpericena
 - 📷 instagram      https://www.instagram.com/lpericena/
 - 🎁 remote      https://remote.com/luishinopericena-choque
-- �?google+   https://plus.google.com/u/0/114054031405340478901
+- ⚛ google+   https://plus.google.com/u/0/114054031405340478901
 - 🚀 kiwi       https://kiwi.qa/LuishinoC
 - 📅 App    https://apps.facebook.com/167466933725219
 - 👻 Grupo    https://www.facebook.com/groups/122223121705126/?source_id=1506435219407506
 - 🎧 socialtools https://www.socialtools.me/index?action=demoApps&preview=1&app_id=406101
-- �?teachlr    https://teachlr.com/lpericena
+- ツ teachlr    https://teachlr.com/lpericena
 - 📖  wikipedia  https://es.wikipedia.org/wiki/Usuario:Luishi%C3%B1o_Pericena_Choque
 - 📧 ask          https://ask.fm/Lpericena
 - 💻 stackoverflow  https://stackoverflow.com/users/6506592/luishi%C3%B1o-pericena-choque
 - 📡 wix https://lpericena.wixsite.com/curriculumvitae
 
-* Gracias  🤓.
+* Gracias  ðŸ¤“.
 
 ---
-⌨️ Por [Pericena](https://github.com/Pericena) 😊
+âŒ¨ï¸ Por [Pericena](https://github.com/Pericena) ðŸ˜Š
