@@ -6,7 +6,7 @@ Doxing es el proceso de obtención de información acerca de una persona a trav�
 fuentes de internet, utilizando el ingenio y habilidades de búsqueda.
 La palabra deriva de "document" en inglés y ing, que sería un gerundio 
 en esa lengua : documentando o algo por el estilo pero queda mejor doxing
-.```
+```
 Doxinfo
 Es un programa creado para para doxear a un individuo o una organización .
 Doxinfo tiene una variedad de opciones de buscadores web para obtener datos de nuestra victimas.
@@ -23,7 +23,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
  - windows 7/10
  - USB 
 ```
-## Deployment ðŸ“¦
+## Deployment 
 - LICENSE
 - Permisos
 * Uso comercial
@@ -45,7 +45,7 @@ _Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios
 * **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
 
 
-## Licencia ðŸ“„
+## Licencia
 
 Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
 
