@@ -67,11 +67,10 @@ Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mi
 Sigueme en las redes Sociales:
 - 🌎Blogger          https://lpericena.blogspot.com/
 - 💡 Github            https://github.com/Pericena
-- 🎬 youtube.com  https://www.youtube.com/channel/UCELx1m-NeAdBn7mCuQ86kcw
-- 📸 pinterest        https://es.pinterest.com/lushiopericena/
 - 🐤 twitter             https://twitter.com/LPericena
 - 👦 linkedin         https://www.linkedin.com/in/lpericena/
 * Gracias  ðŸ¤“.
 
 ---
-âŒ¨ï¸ Por [Pericena](https://github.com/Pericena) ðŸ˜Š
+âŒ¨ï¸ Por [Pericena](https://github.com/Pericena) Donación paypal
+https://www.paypal.com/paypalme/lpericena
