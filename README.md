@@ -23,38 +23,6 @@ _Que cosas necesitas para instalar el software y como instalarlas_
  - windows 7/10
  - USB 
 ```
-
-
-### Donación paypal
-https://www.paypal.com/paypalme/lpericena
-
-## Deployment 
-- LICENSE
-- Permisos
-* Uso comercial
-* DistribuciÃ³n
-* ModificaciÃ³n
-* Uso de patentes
-* Uso privado
-- Condiciones	Limitaciones
-*  Revelar la fuente
-*  Aviso de licencia y copyright
-*  Misma licencia
-*  Cambios de estado
-*  Responsabilidad
-*  GarantÃ­a
-
-## Construido con * [Notepad++](https://notepad-plus-plus.org/download/) - Editor de texto (IDE)
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **LuishiÃ±o Pericena Choque ** - *Desarrollo del software* - [Pericena](https://github.com/Pericena)
-
-
-## Licencia
-
-Este proyecto estÃ¡ bajo la Licencia (Licencia pÃºblica general de GNU) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-
 ### Donation via PayPal
 
 [https://www.paypal.com/paypalme/lpericena](https://www.paypal.com/paypalme/lpericena)
